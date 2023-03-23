@@ -1,0 +1,15 @@
+/Users/mak/Projects/labnextqqall/labnextqqall/bin/Debug/net7.0/labnextqqall
+/Users/mak/Projects/labnextqqall/labnextqqall/bin/Debug/net7.0/labnextqqall.deps.json
+/Users/mak/Projects/labnextqqall/labnextqqall/bin/Debug/net7.0/labnextqqall.runtimeconfig.json
+/Users/mak/Projects/labnextqqall/labnextqqall/bin/Debug/net7.0/labnextqqall.dll
+/Users/mak/Projects/labnextqqall/labnextqqall/bin/Debug/net7.0/labnextqqall.pdb
+/Users/mak/Projects/labnextqqall/labnextqqall/obj/Debug/net7.0/labnextqqall.csproj.AssemblyReference.cache
+/Users/mak/Projects/labnextqqall/labnextqqall/obj/Debug/net7.0/labnextqqall.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mak/Projects/labnextqqall/labnextqqall/obj/Debug/net7.0/labnextqqall.AssemblyInfoInputs.cache
+/Users/mak/Projects/labnextqqall/labnextqqall/obj/Debug/net7.0/labnextqqall.AssemblyInfo.cs
+/Users/mak/Projects/labnextqqall/labnextqqall/obj/Debug/net7.0/labnextqqall.csproj.CoreCompileInputs.cache
+/Users/mak/Projects/labnextqqall/labnextqqall/obj/Debug/net7.0/labnextqqall.dll
+/Users/mak/Projects/labnextqqall/labnextqqall/obj/Debug/net7.0/refint/labnextqqall.dll
+/Users/mak/Projects/labnextqqall/labnextqqall/obj/Debug/net7.0/labnextqqall.pdb
+/Users/mak/Projects/labnextqqall/labnextqqall/obj/Debug/net7.0/labnextqqall.genruntimeconfig.cache
+/Users/mak/Projects/labnextqqall/labnextqqall/obj/Debug/net7.0/ref/labnextqqall.dll
